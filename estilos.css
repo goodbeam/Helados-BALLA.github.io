@@ -43,3 +43,6 @@ button {
     border: none;
     cursor: pointer;
 }
+
+/* v:2026-01-20 */
+body { background-color: #fff7f0 !important; }
